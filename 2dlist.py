@@ -1,6 +1,6 @@
 #2d list is multi dimensional list
 
-drinks = ["coffe","tea","boost"]
+drinks = ["coffe","tea","horlicks"]
 nonveg = ["chicken","mutton","fish"]
 veg = ["carrot","beans","beetroot"]
 
