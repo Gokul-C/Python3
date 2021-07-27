@@ -1,3 +1,5 @@
+#random = its an library to  import all the random functions and shuffling methods.
+
 import random
 
 x = random.randint(1,6)
