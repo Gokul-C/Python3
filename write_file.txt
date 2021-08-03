@@ -1,0 +1,3 @@
+hello this is GokuL C 
+ its an sample txt file related to python file
+ gokul@linux
