@@ -1,4 +1,4 @@
-#remove ramdom.py from this python files list and run this program.
+#remove ramdom.cpython.pyc from this python files list and run this program....if its present.
 #because i think it has same names in these two files and it has some conflicts
 #its an spambot program that will spam whatsapp,insta,fb etc....
 
